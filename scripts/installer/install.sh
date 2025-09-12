@@ -11,7 +11,7 @@ trap 'trap_message' INT TERM
 
 # Script start
 log_message "Installation started"
-print_bold_blue "\nSimple Hyprland"
+print_bold_blue "\nArch Hyprland"
 echo "---------------"
 
 # Check if running as root
@@ -27,5 +27,5 @@ run_script "utilities.sh" "Basic Utilities & Configs Setup"
 run_script "theming.sh" "Themes and Tools Setup"
 run_script "final.sh" "Final Setup"
 
-print_bold_blue "\n🌟 Setup Complete\n"
+print_bold_blue "\n Setup Complete\n"
 log_message "Installation completed successfully"

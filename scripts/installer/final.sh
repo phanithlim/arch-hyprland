@@ -10,7 +10,7 @@ log_message "Final setup script started"
 print_bold_blue "\nCongratulations! Your Simple Hyprland setup is complete!"
 
 print_bold_blue "\nRepository Information:"
-echo "   - GitHub Repository: https://github.com/gaurav23b/simple-hyprland"
+echo "   - GitHub Repository: git@github.com:phanithlim/arch-hyprland.git
 echo "   - If you found this repo helpful, please consider giving it a star on GitHub!"
 
 print_bold_blue "\nContribute:"
